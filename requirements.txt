@@ -1,0 +1,3 @@
+numpy
+nd2
+scikit-image
